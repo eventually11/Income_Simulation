@@ -14,3 +14,8 @@ This project simulates income distribution for couriers working at restaurants. 
 - Different restaurants offer varying order values, influencing total earnings.
 
 - The simulation tracks income distribution over a long period, displaying both the short-term and long-term impacts on courier earnings.
+
+
+## Problem Analysis: Income Distribution and Order Allocation
+
+The primary goal of this simulation is to analyze how income is distributed among couriers, both full-time and part-time, over an extended period. By simulating a delivery environment where full-time couriers have a higher probability of securing orders compared to part-time couriers, we can evaluate whether the current order allocation mechanism results in a fair and efficient income distribution. The varying order values from different restaurants further complicate the income dynamics, making it essential to assess if the revenue distribution is proportional to the effort and participation of each courier type.
