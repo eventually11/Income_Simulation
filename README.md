@@ -9,8 +9,8 @@ The restaurant prices vary, affecting each courier's potential income, and the s
 ## description
 This project simulates income distribution for couriers working at restaurants. Couriers are divided into two groups: full-time and part-time. Full-time couriers have double the chance of securing an order compared to part-time couriers, reflecting their higher availability or priority in the system. The restaurants have varying order prices, and over time, the simulation tracks the total earnings of each courier.
 
--- Full-time couriers have a higher chance of securing orders (twice the chance of part-time couriers).
+- Full-time couriers have a higher chance of securing orders (twice the chance of part-time couriers).
 
--- Different restaurants offer varying order values, influencing total earnings.
+- Different restaurants offer varying order values, influencing total earnings.
 
--- The simulation tracks income distribution over a long period, displaying both the short-term and long-term impacts on courier earnings.
+- The simulation tracks income distribution over a long period, displaying both the short-term and long-term impacts on courier earnings.
