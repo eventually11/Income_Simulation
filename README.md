@@ -32,3 +32,19 @@ Each order can fall into one of three categories of hourly income:
 Order prioritization: Higher-paying orders (50 units) are assigned first, followed by medium-paying orders (40 units), and then the lowest-paying orders (30 units).
 Each category has 500 orders per day.
 The system has 100 full-time couriers and 300 part-time couriers.
+
+
+
+
+## conclusion 
+The analysis reveals some significant disparities in courier income. The highest income of a full-time courier is 1.60 times that of the highest part-time courier, indicating a noticeable advantage for full-time couriers. Additionally, there are 2 full-time couriers with an income of less than 150, which suggests potential issues in workload distribution or efficiency. The average income of a full-time courier is 1.83 times that of a part-time courier, reinforcing the income gap between full-time and part-time workers. Furthermore, the highest income among full-time couriers is 6.42 times the lowest income, which highlights a considerable disparity. This significant gap may be unreasonable and could indicate inequitable assignment of orders or differing levels of performance.
+
+To address these issues and improve the income distribution among couriers, the following recommendations are proposed:
+
+Reevaluate Order Assignment: Reassess how orders are distributed among couriers to ensure a more equitable distribution of income opportunities.
+
+Support for Low-Income Couriers: Provide additional training or resources to couriers with lower incomes to help them increase their efficiency and income potential.
+
+Performance-Based Incentives: Implement a performance-based incentive system that rewards lower-performing couriers for improvements, helping to close the income gap.
+
+Monitor Workload Distribution: Closely monitor workload and order assignments to avoid significant disparities and ensure a fairer income distribution across all couriers.
